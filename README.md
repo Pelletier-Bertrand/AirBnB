@@ -1,24 +1,20 @@
-# README
+# The Hacking Project - Semaine 4 - Jeudi
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Projet: AirBnB
 
-Things you may want to cover:
+## Les modèles:
 
-* Ruby version
+* Dog_sitter
+* Dog
+* Stroll
+* City
+* Dogs_strolls
 
-* System dependencies
+# Team Caen:
 
-* Configuration
+Maxime Beaufils, Bertrand Pelletier, Iliès El Ouartassi
 
-* Database creation
+### En savoir plus:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Project for The hacking Project
+https://www.thehackingproject.org/
